@@ -21,18 +21,18 @@ DRAGON is a multi-device bot designed to enhance your WhatsApp conversations wit
 
 ## Get Zokou
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Kingdragony/Arlo-dragon/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zkscan.onrender.com)  <br>
+
    [Session-2](https://zokouscan.onrender.com) <br>
 
 
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Kingdragony/Arlo-dragon) to deploy the bot on **Heroku**.
 
 ## Contributions
 
