@@ -45,12 +45,12 @@ Contributions to DRAGON AI are welcome! If you have ideas for new features, impr
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot DRAGON AI is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot DRAGON AI to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
+-[ARLODRAGON](https:github.com/kingdragony)
