@@ -26,7 +26,6 @@ let lastTextTime = 0;
 const messageDelay = 3000;
 const currentTime = Date.now();
 const Events = require('../action/events');
-const authenticationn = require('../action/auth');
 const PhoneNumber = require("awesome-phonenumber");
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('../lib/ravenexif');
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('../lib/ravenfunc');
